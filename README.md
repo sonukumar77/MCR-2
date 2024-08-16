@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live URL [mcr-2](https://machine-coding-round2.vercel.app/random-user).
 
 ## Available Scripts
 
