@@ -56,9 +56,9 @@ Welcome to this App ! This is React Js application allows users to Generate Rand
 ## Hosted Link
 
 Visit the hosted application: 
-[Random-User Generator](https://machine-coding-round2.vercel.app/random-user)
-[Random-Tweet Generator](https://machine-coding-round2.vercel.app/random-jokes)
-[Infinite Scrolling for Cats Listing](https://machine-coding-round2.vercel.app/cats-listing)
+- [Random-User Generator](https://machine-coding-round2.vercel.app/random-user)
+- [Random-Tweet Generator](https://machine-coding-round2.vercel.app/random-jokes)
+- [Infinite Scrolling for Cats Listing](https://machine-coding-round2.vercel.app/cats-listing)
 
 ## Screenshots
 
